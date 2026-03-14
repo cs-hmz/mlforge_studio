@@ -15,3 +15,5 @@ mlforge_studio/supervised_learning/multiple_linear_regression_gd.py
 mlforge_studio/supervised_learning/simple_linear_regression_gd.py
 mlforge_studio/unsupervised_learning/__init__.py
 test/test.py
+test/test2.py
+test/test3.py
