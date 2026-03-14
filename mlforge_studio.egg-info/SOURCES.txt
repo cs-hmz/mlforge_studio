@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+mlforge_studio/__init__.py
+mlforge_studio/base_model.py
+mlforge_studio.egg-info/PKG-INFO
+mlforge_studio.egg-info/SOURCES.txt
+mlforge_studio.egg-info/dependency_links.txt
+mlforge_studio.egg-info/requires.txt
+mlforge_studio.egg-info/top_level.txt
+mlforge_studio/deep_learning/__init__.py
+mlforge_studio/supervised_learning/__init__.py
+mlforge_studio/supervised_learning/closed_form_linear_regression.py
+mlforge_studio/supervised_learning/multiple_linear_regression_gd.py
+mlforge_studio/supervised_learning/simple_linear_regression_gd.py
+mlforge_studio/unsupervised_learning/__init__.py
+test/test.py
